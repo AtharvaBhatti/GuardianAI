@@ -1,0 +1,23 @@
+{
+"headline1": "Electoral Bonds a Game-Changer for Political Transparency",
+"sentiment1": {
+"pos": 0.8,
+"neg": 0.2,
+"neu": 0.0,
+"compound": 0.75
+},
+"headline2": "Prashant Bhushan's Claims on Electoral Bonds Misguided",
+"sentiment2": {
+"pos": 0.6,
+"neg": 0.3,
+"neu": 0.1,
+"compound": 0.55
+},
+"headline3": "Electoral Bond System Needs Reform, Not Scrutiny",
+"sentiment3": {
+"pos": 0.4,
+"neg": 0.5,
+"neu": 0.1,
+"compound": -0.05
+}
+}
