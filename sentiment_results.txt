@@ -1,0 +1,5 @@
+Very negative: 0.55
+Negative: 0.25
+Neutral: 0.09
+Positive: 0.06
+Very positive: 0.04
