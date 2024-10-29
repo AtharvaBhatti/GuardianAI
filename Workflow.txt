@@ -1,0 +1,15 @@
+1. user will enter a topic. //done
+2. webscrape, googlesearch python lib, news api //news api not not of any use,
+3. tokenize the description recieved // useless
+4. sentiment analysis //useless
+5. get helpers to display an output on frontend
+6. send this text to ollama to generate 3 headlines.
+7. get the json file
+8. from the json file, extract the headlines and descriptions and return urls for the same. //done
+
+9. Beautify the Front-end
+10. add previous responses to searches.(making it gpt like)
+
+Improvements:
+- sentiment analysis to return more, appropriate made-up headlines.
+- decision tree based algo to decide what headline to change.
